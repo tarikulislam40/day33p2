@@ -272,7 +272,7 @@ ul.primary-menu li ul li:hover a{
     text-align: center;
     font-size: 50px;
     border-radius: 50%;
-    color: #e73c3e;
+    color: #e73c3e !important;
     z-index: 1;
 
 }
